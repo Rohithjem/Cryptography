@@ -55,3 +55,9 @@ int main(){
     return 0;
 
 }
+
+OUTPUT:
+enter message to encrypt:rohith
+enter the key:3
+Encrtpted message:urklwk
+Decrypted message :rohith
